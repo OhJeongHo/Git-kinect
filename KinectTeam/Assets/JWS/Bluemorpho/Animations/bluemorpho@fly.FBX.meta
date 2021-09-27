@@ -1,0 +1,1169 @@
+fileFormatVersion: 2
+guid: 97e931b37eca20c459faca4f159c8e72
+timeCreated: 1531936925
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bluemorpho_Abdomen1_bone
+    100004: bluemorpho_Abdomen1_ctrl
+    100006: bluemorpho_Abdomen2_bone
+    100008: bluemorpho_Abdomen2_ctrl
+    100010: bluemorpho_Abdomen3_bone
+    100012: bluemorpho_Abdomen3_ctrl
+    100014: bluemorpho_Abdomen4-nub_bone
+    100016: bluemorpho_Abdomen4_bone
+    100018: bluemorpho_Abdomen4_ctrl
+    100020: bluemorpho_Body_mesh
+    100022: Bluemorpho_COM_ctrl
+    100024: bluemorpho_Fur_mesh
+    100026: bluemorpho_Head-nub_bone
+    100028: bluemorpho_Head_bone
+    100030: bluemorpho_Head_ctrl
+    100032: bluemorpho_l_Antenna01_bone
+    100034: bluemorpho_l_Antenna01_ctrl
+    100036: bluemorpho_l_Antenna02_bone
+    100038: bluemorpho_l_Antenna02_ctrl
+    100040: bluemorpho_l_Antenna03_bone
+    100042: bluemorpho_l_Antenna03_ctrl
+    100044: bluemorpho_l_Antenna04_bone
+    100046: bluemorpho_l_Antenna04_ctrl
+    100048: bluemorpho_l_Antenna05_bone
+    100050: bluemorpho_l_Antenna05_ctrl
+    100052: bluemorpho_l_Antenna06_bone
+    100054: bluemorpho_l_Antenna06_ctrl
+    100056: bluemorpho_l_Antenna07_bone
+    100058: bluemorpho_l_Antenna07_ctrl
+    100060: bluemorpho_l_Antenna08_bone
+    100062: bluemorpho_l_Antenna08_ctrl
+    100064: bluemorpho_l_Antenna09_bone
+    100066: bluemorpho_l_Antenna09_ctrl
+    100068: bluemorpho_l_Antenna10_bone
+    100070: bluemorpho_l_Antenna10_ctrl
+    100072: bluemorpho_l_Antenna11_bone
+    100074: bluemorpho_l_Antenna11_ctrl
+    100076: bluemorpho_l_Antenna12-nub_bone
+    100078: bluemorpho_l_Antenna12_bone
+    100080: bluemorpho_l_Antenna12_ctrl
+    100082: bluemorpho_l_Claw-nub_bone
+    100084: bluemorpho_l_Claw_bone
+    100086: bluemorpho_l_Coxa_bone
+    100088: bluemorpho_l_Coxa_ctrl
+    100090: bluemorpho_l_Coxa_ctrl001
+    100092: bluemorpho_l_Coxa_ctrl002
+    100094: bluemorpho_l_Coxa_ctrl003
+    100096: bluemorpho_l_Coxa_ctrl004
+    100098: bluemorpho_l_Coxa_ctrl005
+    100100: bluemorpho_l_Coxa_ctrl006
+    100102: bluemorpho_l_Coxa_ctrl007
+    100104: bluemorpho_l_Coxa_ctrl008
+    100106: bluemorpho_l_Coxa_ctrl009
+    100108: bluemorpho_l_Femur_bone
+    100110: bluemorpho_l_Foreball_IKGoal
+    100112: bluemorpho_l_ForeClaw-nub_bone
+    100114: bluemorpho_l_ForeClaw_bone
+    100116: bluemorpho_l_ForeCoxa_bone
+    100118: bluemorpho_l_ForeCoxa_ctrl
+    100120: bluemorpho_l_ForeFemur_bone
+    100122: bluemorpho_l_ForeFoot_ctrl
+    100124: bluemorpho_l_Foreheel_IKGoal
+    100126: bluemorpho_l_ForeHeelLift_hlp
+    100128: bluemorpho_l_ForeHeelPeel_hlp
+    100130: bluemorpho_l_ForeMetatarsus_bone
+    100132: bluemorpho_l_ForeTarsus_bone
+    100134: bluemorpho_l_ForeTarsus_hlp
+    100136: bluemorpho_l_Foretarsus_IKGoal
+    100138: bluemorpho_l_ForeTibia_bone
+    100140: bluemorpho_l_ForeToe_hlp
+    100142: bluemorpho_l_Foretoe_IKGoal
+    100144: bluemorpho_l_ForeToeTap_hlp
+    100146: bluemorpho_l_ForeWing01_bone
+    100148: bluemorpho_l_ForeWing01_ctrl
+    100150: bluemorpho_l_ForeWing02_bone
+    100152: bluemorpho_l_ForeWing02_ctrl
+    100154: bluemorpho_l_ForeWing03_bone
+    100156: bluemorpho_l_ForeWing03_ctrl
+    100158: bluemorpho_l_ForeWing04_bone
+    100160: bluemorpho_l_ForeWing04_ctrl
+    100162: bluemorpho_l_ForeWing05_bone
+    100164: bluemorpho_l_ForeWing05_ctrl
+    100166: bluemorpho_l_ForeWing06_bone
+    100168: bluemorpho_l_Hindball_IKGoal
+    100170: bluemorpho_l_HindClaw-nub_bone
+    100172: bluemorpho_l_HindClaw_bone
+    100174: bluemorpho_l_HindCoxa_bone
+    100176: bluemorpho_l_HindCoxa_bone 1
+    100178: bluemorpho_l_HindFemur_bone
+    100180: bluemorpho_l_HindFoot_ctrl
+    100182: bluemorpho_l_Hindheel_IKGoal
+    100184: bluemorpho_l_HindHeelLift_hlp
+    100186: bluemorpho_l_HindHeelPeel_hlp
+    100188: bluemorpho_l_HindMetatarsus_bone
+    100190: bluemorpho_l_HindTarsus_bone
+    100192: bluemorpho_l_HindTarsus_hlp
+    100194: bluemorpho_l_Hindtarsus_IKGoal
+    100196: bluemorpho_l_HindTibia_bone
+    100198: bluemorpho_l_HindToe_hlp
+    100200: bluemorpho_l_Hindtoe_IKGoal
+    100202: bluemorpho_l_HindToeTap_hlp
+    100204: bluemorpho_l_HindWing01_bone
+    100206: bluemorpho_l_HindWing02_bone
+    100208: bluemorpho_l_HindWing03_bone
+    100210: bluemorpho_l_HindWing04_bone
+    100212: bluemorpho_l_HindWing05_bone
+    100214: bluemorpho_l_HindWing06_bone
+    100216: bluemorpho_l_Tarsus_bone
+    100218: bluemorpho_l_Tibia_bone
+    100220: bluemorpho_Main_ctrl
+    100222: bluemorpho_Mesothorax_bone
+    100224: bluemorpho_Mesothorax_ctrl
+    100226: bluemorpho_Metathorax_bone
+    100228: bluemorpho_Prothorax_bone
+    100230: bluemorpho_Prothorax_ctrl
+    100232: bluemorpho_r_Antenna01_bone
+    100234: bluemorpho_r_Antenna01_ctrl
+    100236: bluemorpho_r_Antenna02_bone
+    100238: bluemorpho_r_Antenna02_ctrl
+    100240: bluemorpho_r_Antenna03_bone
+    100242: bluemorpho_r_Antenna03_ctrl
+    100244: bluemorpho_r_Antenna04_bone
+    100246: bluemorpho_r_Antenna04_ctrl
+    100248: bluemorpho_r_Antenna05_bone
+    100250: bluemorpho_r_Antenna05_ctrl
+    100252: bluemorpho_r_Antenna06_bone
+    100254: bluemorpho_r_Antenna06_ctrl
+    100256: bluemorpho_r_Antenna07_bone
+    100258: bluemorpho_r_Antenna07_ctrl
+    100260: bluemorpho_r_Antenna08_bone
+    100262: bluemorpho_r_Antenna08_ctrl
+    100264: bluemorpho_r_Antenna09_bone
+    100266: bluemorpho_r_Antenna09_ctrl
+    100268: bluemorpho_r_Antenna10_bone
+    100270: bluemorpho_r_Antenna10_ctrl
+    100272: bluemorpho_r_Antenna11_bone
+    100274: bluemorpho_r_Antenna11_ctrl
+    100276: bluemorpho_r_Antenna12-nub_bone
+    100278: bluemorpho_r_Antenna12_bone
+    100280: bluemorpho_r_Antenna12_ctrl
+    100282: bluemorpho_r_Claw-nub_bone
+    100284: bluemorpho_r_Claw_bone
+    100286: bluemorpho_r_Coxa_bone
+    100288: bluemorpho_r_Femur_bone
+    100290: bluemorpho_r_Foreball_IKGoal
+    100292: bluemorpho_r_ForeClaw-nub_bone
+    100294: bluemorpho_r_ForeClaw_bone
+    100296: bluemorpho_r_ForeCoxa_bone
+    100298: bluemorpho_r_ForeCoxa_ctrl
+    100300: bluemorpho_r_ForeFemur_bone
+    100302: bluemorpho_r_ForeFoot_ctrl
+    100304: bluemorpho_r_Foreheel_IKGoal
+    100306: bluemorpho_r_ForeHeelLift_hlp
+    100308: bluemorpho_r_ForeHeelPeel_hlp
+    100310: bluemorpho_r_ForeMetatarsus_bone
+    100312: bluemorpho_r_ForeTarsus_bone
+    100314: bluemorpho_r_ForeTarsus_hlp
+    100316: bluemorpho_r_Foretarsus_IKGoal
+    100318: bluemorpho_r_ForeTibia_bone
+    100320: bluemorpho_r_ForeToe_hlp
+    100322: bluemorpho_r_Foretoe_IKGoal
+    100324: bluemorpho_r_ForeToeTap_hlp
+    100326: bluemorpho_r_ForeWing01_bone
+    100328: bluemorpho_r_ForeWing01_ctrl
+    100330: bluemorpho_r_ForeWing02_bone
+    100332: bluemorpho_r_ForeWing02_ctrl
+    100334: bluemorpho_r_ForeWing03_bone
+    100336: bluemorpho_r_ForeWing03_ctrl
+    100338: bluemorpho_r_ForeWing04_bone
+    100340: bluemorpho_r_ForeWing04_ctrl
+    100342: bluemorpho_r_ForeWing05_bone
+    100344: bluemorpho_r_ForeWing05_ctrl
+    100346: bluemorpho_r_ForeWing06_bone
+    100348: bluemorpho_r_Hindball_IKGoal
+    100350: bluemorpho_r_HindClaw-nub_bone
+    100352: bluemorpho_r_HindClaw_bone
+    100354: bluemorpho_r_HindCoxa_bone
+    100356: bluemorpho_r_HindCoxa_bone 1
+    100358: bluemorpho_r_HindFemur_bone
+    100360: bluemorpho_r_HindFoot_ctrl
+    100362: bluemorpho_r_Hindheel_IKGoal
+    100364: bluemorpho_r_HindHeelLift_hlp
+    100366: bluemorpho_r_HindHeelPeel_hlp
+    100368: bluemorpho_r_HindMetatarsus_bone
+    100370: bluemorpho_r_HindTarsus_bone
+    100372: bluemorpho_r_HindTarsus_hlp
+    100374: bluemorpho_r_Hindtarsus_IKGoal
+    100376: bluemorpho_r_HindTibia_bone
+    100378: bluemorpho_r_HindToe_hlp
+    100380: bluemorpho_r_Hindtoe_IKGoal
+    100382: bluemorpho_r_HindToeTap_hlp
+    100384: bluemorpho_r_HindWing01_bone
+    100386: bluemorpho_r_HindWing02_bone
+    100388: bluemorpho_r_HindWing02_ctrl
+    100390: bluemorpho_r_HindWing03_bone
+    100392: bluemorpho_r_HindWing03_ctrl
+    100394: bluemorpho_r_HindWing04_bone
+    100396: bluemorpho_r_HindWing04_ctrl
+    100398: bluemorpho_r_HindWing05_bone
+    100400: bluemorpho_r_HindWing05_ctrl
+    100402: bluemorpho_r_HindWing06_bone
+    100404: bluemorpho_r_Tarsus_bone
+    100406: bluemorpho_r_Tibia_bone
+    100408: bluemorpho_r_Wings_mesh
+    100410: bluemorpho_Tongue01_bone
+    100412: bluemorpho_Tongue01_ctrl
+    100414: bluemorpho_Tongue02_bone
+    100416: bluemorpho_Tongue02_ctrl
+    100418: bluemorpho_Tongue03_bone
+    100420: bluemorpho_Tongue03_ctrl
+    100422: bluemorpho_Tongue04_bone
+    100424: bluemorpho_Tongue04_ctrl
+    100426: bluemorpho_Tongue05_bone
+    100428: bluemorpho_Tongue05_ctrl
+    100430: bluemorpho_Tongue06_bone
+    100432: bluemorpho_Tongue06_ctrl
+    100434: bluemorpho_Tongue07_bone
+    100436: bluemorpho_Tongue07_ctrl
+    100438: bluemorpho_Tongue08_bone
+    100440: bluemorpho_Tongue08_ctrl
+    100442: bluemorpho_Tongue09_bone
+    100444: bluemorpho_Tongue09_ctrl
+    100446: bluemorpho_Tongue10_bone
+    100448: bluemorpho_Tongue10_ctrl
+    100450: bluemorpho_Tongue11_bone
+    100452: bluemorpho_Tongue11_ctrl
+    100454: bluemorpho_Tongue12_bone
+    100456: bluemorpho_Tongue12_ctrl
+    100458: bluemorpho_Tongue13_bone
+    100460: bluemorpho_Tongue13_ctrl
+    100462: bluemorpho_Tongue14_bone
+    100464: bluemorpho_Tongue14_ctrl
+    100466: bluemorpho_Tongue15_bone
+    100468: bluemorpho_Tongue15_ctrl
+    100470: bluemorpho_Tongue16_bone
+    100472: bluemorpho_Tongue16_ctrl
+    100474: bluemorpho_Tongue17_bone
+    100476: bluemorpho_Tongue17_ctrl
+    100478: bluemorpho_Tongue18_bone
+    100480: bluemorpho_Tongue18_ctrl
+    100482: bluemorpho_Tongue19_bone
+    100484: bluemorpho_Tongue19_ctrl
+    100486: bluemorpho_Tongue20_bone
+    100488: bluemorpho_Tongue20_ctrl
+    100490: bluemorpho_Tongue21_bone
+    100492: bluemorpho_Tongue21_ctrl
+    100494: bluemorpho_Tongue22_bone
+    100496: bluemorpho_Tongue22_ctrl
+    100498: bluemorpho_Tongue23_bone
+    100500: bluemorpho_Tongue23_ctrl
+    100502: bluemorpho_Tongue24_bone
+    100504: bluemorpho_Tongue24_ctrl
+    100506: bluemorpho_Tongue25_bone
+    100508: bluemorpho_Tongue_mesh
+    100510: Circle006
+    100512: Circle007
+    100514: Circle008
+    100516: Circle009
+    100518: bluemorpho_target_hlp
+    400000: //RootNode
+    400002: bluemorpho_Abdomen1_bone
+    400004: bluemorpho_Abdomen1_ctrl
+    400006: bluemorpho_Abdomen2_bone
+    400008: bluemorpho_Abdomen2_ctrl
+    400010: bluemorpho_Abdomen3_bone
+    400012: bluemorpho_Abdomen3_ctrl
+    400014: bluemorpho_Abdomen4-nub_bone
+    400016: bluemorpho_Abdomen4_bone
+    400018: bluemorpho_Abdomen4_ctrl
+    400020: bluemorpho_Body_mesh
+    400022: Bluemorpho_COM_ctrl
+    400024: bluemorpho_Fur_mesh
+    400026: bluemorpho_Head-nub_bone
+    400028: bluemorpho_Head_bone
+    400030: bluemorpho_Head_ctrl
+    400032: bluemorpho_l_Antenna01_bone
+    400034: bluemorpho_l_Antenna01_ctrl
+    400036: bluemorpho_l_Antenna02_bone
+    400038: bluemorpho_l_Antenna02_ctrl
+    400040: bluemorpho_l_Antenna03_bone
+    400042: bluemorpho_l_Antenna03_ctrl
+    400044: bluemorpho_l_Antenna04_bone
+    400046: bluemorpho_l_Antenna04_ctrl
+    400048: bluemorpho_l_Antenna05_bone
+    400050: bluemorpho_l_Antenna05_ctrl
+    400052: bluemorpho_l_Antenna06_bone
+    400054: bluemorpho_l_Antenna06_ctrl
+    400056: bluemorpho_l_Antenna07_bone
+    400058: bluemorpho_l_Antenna07_ctrl
+    400060: bluemorpho_l_Antenna08_bone
+    400062: bluemorpho_l_Antenna08_ctrl
+    400064: bluemorpho_l_Antenna09_bone
+    400066: bluemorpho_l_Antenna09_ctrl
+    400068: bluemorpho_l_Antenna10_bone
+    400070: bluemorpho_l_Antenna10_ctrl
+    400072: bluemorpho_l_Antenna11_bone
+    400074: bluemorpho_l_Antenna11_ctrl
+    400076: bluemorpho_l_Antenna12-nub_bone
+    400078: bluemorpho_l_Antenna12_bone
+    400080: bluemorpho_l_Antenna12_ctrl
+    400082: bluemorpho_l_Claw-nub_bone
+    400084: bluemorpho_l_Claw_bone
+    400086: bluemorpho_l_Coxa_bone
+    400088: bluemorpho_l_Coxa_ctrl
+    400090: bluemorpho_l_Coxa_ctrl001
+    400092: bluemorpho_l_Coxa_ctrl002
+    400094: bluemorpho_l_Coxa_ctrl003
+    400096: bluemorpho_l_Coxa_ctrl004
+    400098: bluemorpho_l_Coxa_ctrl005
+    400100: bluemorpho_l_Coxa_ctrl006
+    400102: bluemorpho_l_Coxa_ctrl007
+    400104: bluemorpho_l_Coxa_ctrl008
+    400106: bluemorpho_l_Coxa_ctrl009
+    400108: bluemorpho_l_Femur_bone
+    400110: bluemorpho_l_Foreball_IKGoal
+    400112: bluemorpho_l_ForeClaw-nub_bone
+    400114: bluemorpho_l_ForeClaw_bone
+    400116: bluemorpho_l_ForeCoxa_bone
+    400118: bluemorpho_l_ForeCoxa_ctrl
+    400120: bluemorpho_l_ForeFemur_bone
+    400122: bluemorpho_l_ForeFoot_ctrl
+    400124: bluemorpho_l_Foreheel_IKGoal
+    400126: bluemorpho_l_ForeHeelLift_hlp
+    400128: bluemorpho_l_ForeHeelPeel_hlp
+    400130: bluemorpho_l_ForeMetatarsus_bone
+    400132: bluemorpho_l_ForeTarsus_bone
+    400134: bluemorpho_l_ForeTarsus_hlp
+    400136: bluemorpho_l_Foretarsus_IKGoal
+    400138: bluemorpho_l_ForeTibia_bone
+    400140: bluemorpho_l_ForeToe_hlp
+    400142: bluemorpho_l_Foretoe_IKGoal
+    400144: bluemorpho_l_ForeToeTap_hlp
+    400146: bluemorpho_l_ForeWing01_bone
+    400148: bluemorpho_l_ForeWing01_ctrl
+    400150: bluemorpho_l_ForeWing02_bone
+    400152: bluemorpho_l_ForeWing02_ctrl
+    400154: bluemorpho_l_ForeWing03_bone
+    400156: bluemorpho_l_ForeWing03_ctrl
+    400158: bluemorpho_l_ForeWing04_bone
+    400160: bluemorpho_l_ForeWing04_ctrl
+    400162: bluemorpho_l_ForeWing05_bone
+    400164: bluemorpho_l_ForeWing05_ctrl
+    400166: bluemorpho_l_ForeWing06_bone
+    400168: bluemorpho_l_Hindball_IKGoal
+    400170: bluemorpho_l_HindClaw-nub_bone
+    400172: bluemorpho_l_HindClaw_bone
+    400174: bluemorpho_l_HindCoxa_bone
+    400176: bluemorpho_l_HindCoxa_bone 1
+    400178: bluemorpho_l_HindFemur_bone
+    400180: bluemorpho_l_HindFoot_ctrl
+    400182: bluemorpho_l_Hindheel_IKGoal
+    400184: bluemorpho_l_HindHeelLift_hlp
+    400186: bluemorpho_l_HindHeelPeel_hlp
+    400188: bluemorpho_l_HindMetatarsus_bone
+    400190: bluemorpho_l_HindTarsus_bone
+    400192: bluemorpho_l_HindTarsus_hlp
+    400194: bluemorpho_l_Hindtarsus_IKGoal
+    400196: bluemorpho_l_HindTibia_bone
+    400198: bluemorpho_l_HindToe_hlp
+    400200: bluemorpho_l_Hindtoe_IKGoal
+    400202: bluemorpho_l_HindToeTap_hlp
+    400204: bluemorpho_l_HindWing01_bone
+    400206: bluemorpho_l_HindWing02_bone
+    400208: bluemorpho_l_HindWing03_bone
+    400210: bluemorpho_l_HindWing04_bone
+    400212: bluemorpho_l_HindWing05_bone
+    400214: bluemorpho_l_HindWing06_bone
+    400216: bluemorpho_l_Tarsus_bone
+    400218: bluemorpho_l_Tibia_bone
+    400220: bluemorpho_Main_ctrl
+    400222: bluemorpho_Mesothorax_bone
+    400224: bluemorpho_Mesothorax_ctrl
+    400226: bluemorpho_Metathorax_bone
+    400228: bluemorpho_Prothorax_bone
+    400230: bluemorpho_Prothorax_ctrl
+    400232: bluemorpho_r_Antenna01_bone
+    400234: bluemorpho_r_Antenna01_ctrl
+    400236: bluemorpho_r_Antenna02_bone
+    400238: bluemorpho_r_Antenna02_ctrl
+    400240: bluemorpho_r_Antenna03_bone
+    400242: bluemorpho_r_Antenna03_ctrl
+    400244: bluemorpho_r_Antenna04_bone
+    400246: bluemorpho_r_Antenna04_ctrl
+    400248: bluemorpho_r_Antenna05_bone
+    400250: bluemorpho_r_Antenna05_ctrl
+    400252: bluemorpho_r_Antenna06_bone
+    400254: bluemorpho_r_Antenna06_ctrl
+    400256: bluemorpho_r_Antenna07_bone
+    400258: bluemorpho_r_Antenna07_ctrl
+    400260: bluemorpho_r_Antenna08_bone
+    400262: bluemorpho_r_Antenna08_ctrl
+    400264: bluemorpho_r_Antenna09_bone
+    400266: bluemorpho_r_Antenna09_ctrl
+    400268: bluemorpho_r_Antenna10_bone
+    400270: bluemorpho_r_Antenna10_ctrl
+    400272: bluemorpho_r_Antenna11_bone
+    400274: bluemorpho_r_Antenna11_ctrl
+    400276: bluemorpho_r_Antenna12-nub_bone
+    400278: bluemorpho_r_Antenna12_bone
+    400280: bluemorpho_r_Antenna12_ctrl
+    400282: bluemorpho_r_Claw-nub_bone
+    400284: bluemorpho_r_Claw_bone
+    400286: bluemorpho_r_Coxa_bone
+    400288: bluemorpho_r_Femur_bone
+    400290: bluemorpho_r_Foreball_IKGoal
+    400292: bluemorpho_r_ForeClaw-nub_bone
+    400294: bluemorpho_r_ForeClaw_bone
+    400296: bluemorpho_r_ForeCoxa_bone
+    400298: bluemorpho_r_ForeCoxa_ctrl
+    400300: bluemorpho_r_ForeFemur_bone
+    400302: bluemorpho_r_ForeFoot_ctrl
+    400304: bluemorpho_r_Foreheel_IKGoal
+    400306: bluemorpho_r_ForeHeelLift_hlp
+    400308: bluemorpho_r_ForeHeelPeel_hlp
+    400310: bluemorpho_r_ForeMetatarsus_bone
+    400312: bluemorpho_r_ForeTarsus_bone
+    400314: bluemorpho_r_ForeTarsus_hlp
+    400316: bluemorpho_r_Foretarsus_IKGoal
+    400318: bluemorpho_r_ForeTibia_bone
+    400320: bluemorpho_r_ForeToe_hlp
+    400322: bluemorpho_r_Foretoe_IKGoal
+    400324: bluemorpho_r_ForeToeTap_hlp
+    400326: bluemorpho_r_ForeWing01_bone
+    400328: bluemorpho_r_ForeWing01_ctrl
+    400330: bluemorpho_r_ForeWing02_bone
+    400332: bluemorpho_r_ForeWing02_ctrl
+    400334: bluemorpho_r_ForeWing03_bone
+    400336: bluemorpho_r_ForeWing03_ctrl
+    400338: bluemorpho_r_ForeWing04_bone
+    400340: bluemorpho_r_ForeWing04_ctrl
+    400342: bluemorpho_r_ForeWing05_bone
+    400344: bluemorpho_r_ForeWing05_ctrl
+    400346: bluemorpho_r_ForeWing06_bone
+    400348: bluemorpho_r_Hindball_IKGoal
+    400350: bluemorpho_r_HindClaw-nub_bone
+    400352: bluemorpho_r_HindClaw_bone
+    400354: bluemorpho_r_HindCoxa_bone
+    400356: bluemorpho_r_HindCoxa_bone 1
+    400358: bluemorpho_r_HindFemur_bone
+    400360: bluemorpho_r_HindFoot_ctrl
+    400362: bluemorpho_r_Hindheel_IKGoal
+    400364: bluemorpho_r_HindHeelLift_hlp
+    400366: bluemorpho_r_HindHeelPeel_hlp
+    400368: bluemorpho_r_HindMetatarsus_bone
+    400370: bluemorpho_r_HindTarsus_bone
+    400372: bluemorpho_r_HindTarsus_hlp
+    400374: bluemorpho_r_Hindtarsus_IKGoal
+    400376: bluemorpho_r_HindTibia_bone
+    400378: bluemorpho_r_HindToe_hlp
+    400380: bluemorpho_r_Hindtoe_IKGoal
+    400382: bluemorpho_r_HindToeTap_hlp
+    400384: bluemorpho_r_HindWing01_bone
+    400386: bluemorpho_r_HindWing02_bone
+    400388: bluemorpho_r_HindWing02_ctrl
+    400390: bluemorpho_r_HindWing03_bone
+    400392: bluemorpho_r_HindWing03_ctrl
+    400394: bluemorpho_r_HindWing04_bone
+    400396: bluemorpho_r_HindWing04_ctrl
+    400398: bluemorpho_r_HindWing05_bone
+    400400: bluemorpho_r_HindWing05_ctrl
+    400402: bluemorpho_r_HindWing06_bone
+    400404: bluemorpho_r_Tarsus_bone
+    400406: bluemorpho_r_Tibia_bone
+    400408: bluemorpho_r_Wings_mesh
+    400410: bluemorpho_Tongue01_bone
+    400412: bluemorpho_Tongue01_ctrl
+    400414: bluemorpho_Tongue02_bone
+    400416: bluemorpho_Tongue02_ctrl
+    400418: bluemorpho_Tongue03_bone
+    400420: bluemorpho_Tongue03_ctrl
+    400422: bluemorpho_Tongue04_bone
+    400424: bluemorpho_Tongue04_ctrl
+    400426: bluemorpho_Tongue05_bone
+    400428: bluemorpho_Tongue05_ctrl
+    400430: bluemorpho_Tongue06_bone
+    400432: bluemorpho_Tongue06_ctrl
+    400434: bluemorpho_Tongue07_bone
+    400436: bluemorpho_Tongue07_ctrl
+    400438: bluemorpho_Tongue08_bone
+    400440: bluemorpho_Tongue08_ctrl
+    400442: bluemorpho_Tongue09_bone
+    400444: bluemorpho_Tongue09_ctrl
+    400446: bluemorpho_Tongue10_bone
+    400448: bluemorpho_Tongue10_ctrl
+    400450: bluemorpho_Tongue11_bone
+    400452: bluemorpho_Tongue11_ctrl
+    400454: bluemorpho_Tongue12_bone
+    400456: bluemorpho_Tongue12_ctrl
+    400458: bluemorpho_Tongue13_bone
+    400460: bluemorpho_Tongue13_ctrl
+    400462: bluemorpho_Tongue14_bone
+    400464: bluemorpho_Tongue14_ctrl
+    400466: bluemorpho_Tongue15_bone
+    400468: bluemorpho_Tongue15_ctrl
+    400470: bluemorpho_Tongue16_bone
+    400472: bluemorpho_Tongue16_ctrl
+    400474: bluemorpho_Tongue17_bone
+    400476: bluemorpho_Tongue17_ctrl
+    400478: bluemorpho_Tongue18_bone
+    400480: bluemorpho_Tongue18_ctrl
+    400482: bluemorpho_Tongue19_bone
+    400484: bluemorpho_Tongue19_ctrl
+    400486: bluemorpho_Tongue20_bone
+    400488: bluemorpho_Tongue20_ctrl
+    400490: bluemorpho_Tongue21_bone
+    400492: bluemorpho_Tongue21_ctrl
+    400494: bluemorpho_Tongue22_bone
+    400496: bluemorpho_Tongue22_ctrl
+    400498: bluemorpho_Tongue23_bone
+    400500: bluemorpho_Tongue23_ctrl
+    400502: bluemorpho_Tongue24_bone
+    400504: bluemorpho_Tongue24_ctrl
+    400506: bluemorpho_Tongue25_bone
+    400508: bluemorpho_Tongue_mesh
+    400510: Circle006
+    400512: Circle007
+    400514: Circle008
+    400516: Circle009
+    400518: bluemorpho_target_hlp
+    2300000: bluemorpho_l_ForeFoot_ctrl
+    2300002: bluemorpho_l_HindFoot_ctrl
+    2300004: bluemorpho_r_ForeFoot_ctrl
+    2300006: bluemorpho_r_HindFoot_ctrl
+    3300000: bluemorpho_l_ForeFoot_ctrl
+    3300002: bluemorpho_l_HindFoot_ctrl
+    3300004: bluemorpho_r_ForeFoot_ctrl
+    3300006: bluemorpho_r_HindFoot_ctrl
+    4300000: bluemorpho_Body_mesh
+    4300002: bluemorpho_r_Wings_mesh
+    4300004: bluemorpho_Tongue_mesh
+    4300006: bluemorpho_Fur_mesh
+    4300008: bluemorpho_l_HindFoot_ctrl
+    4300010: bluemorpho_l_ForeFoot_ctrl
+    4300012: bluemorpho_r_HindFoot_ctrl
+    4300014: bluemorpho_r_ForeFoot_ctrl
+    7400000: fly
+    9500000: //RootNode
+    13700000: bluemorpho_Body_mesh
+    13700002: bluemorpho_Fur_mesh
+    13700004: bluemorpho_r_Wings_mesh
+    13700006: bluemorpho_Tongue_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: fly
+      takeName: Take 001
+      firstFrame: 474
+      lastFrame: 490
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bluemorpho_Abdomen1_ctrl
+        weight: 1
+      - path: bluemorpho_Abdomen1_ctrl/bluemorpho_Abdomen2_ctrl
+        weight: 1
+      - path: bluemorpho_Abdomen1_ctrl/bluemorpho_Abdomen2_ctrl/bluemorpho_Abdomen3_ctrl
+        weight: 1
+      - path: bluemorpho_Abdomen1_ctrl/bluemorpho_Abdomen2_ctrl/bluemorpho_Abdomen3_ctrl/bluemorpho_Abdomen4_ctrl
+        weight: 1
+      - path: bluemorpho_Body_mesh
+        weight: 1
+      - path: bluemorpho_Fur_mesh
+        weight: 1
+      - path: bluemorpho_Head_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Abdomen1_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Abdomen1_bone/bluemorpho_Abdomen2_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Abdomen1_bone/bluemorpho_Abdomen2_bone/bluemorpho_Abdomen3_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Abdomen1_bone/bluemorpho_Abdomen2_bone/bluemorpho_Abdomen3_bone/bluemorpho_Abdomen4_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Abdomen1_bone/bluemorpho_Abdomen2_bone/bluemorpho_Abdomen3_bone/bluemorpho_Abdomen4_bone/bluemorpho_Abdomen4-nub_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_l_HindCoxa_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_l_HindCoxa_bone/bluemorpho_l_HindFemur_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_l_HindCoxa_bone/bluemorpho_l_HindFemur_bone/bluemorpho_l_HindTibia_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_l_HindCoxa_bone/bluemorpho_l_HindFemur_bone/bluemorpho_l_HindTibia_bone/bluemorpho_l_HindTarsus_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_l_HindCoxa_bone/bluemorpho_l_HindFemur_bone/bluemorpho_l_HindTibia_bone/bluemorpho_l_HindTarsus_bone/bluemorpho_l_HindMetatarsus_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_l_HindCoxa_bone/bluemorpho_l_HindFemur_bone/bluemorpho_l_HindTibia_bone/bluemorpho_l_HindTarsus_bone/bluemorpho_l_HindMetatarsus_bone/bluemorpho_l_HindClaw_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_l_HindCoxa_bone/bluemorpho_l_HindFemur_bone/bluemorpho_l_HindTibia_bone/bluemorpho_l_HindTarsus_bone/bluemorpho_l_HindMetatarsus_bone/bluemorpho_l_HindClaw_bone/bluemorpho_l_HindClaw-nub_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_l_HindCoxa_bone
+          1
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeCoxa_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeCoxa_bone/bluemorpho_l_ForeFemur_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeCoxa_bone/bluemorpho_l_ForeFemur_bone/bluemorpho_l_ForeTibia_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeCoxa_bone/bluemorpho_l_ForeFemur_bone/bluemorpho_l_ForeTibia_bone/bluemorpho_l_ForeTarsus_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeCoxa_bone/bluemorpho_l_ForeFemur_bone/bluemorpho_l_ForeTibia_bone/bluemorpho_l_ForeTarsus_bone/bluemorpho_l_ForeMetatarsus_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeCoxa_bone/bluemorpho_l_ForeFemur_bone/bluemorpho_l_ForeTibia_bone/bluemorpho_l_ForeTarsus_bone/bluemorpho_l_ForeMetatarsus_bone/bluemorpho_l_ForeClaw_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeCoxa_bone/bluemorpho_l_ForeFemur_bone/bluemorpho_l_ForeTibia_bone/bluemorpho_l_ForeTarsus_bone/bluemorpho_l_ForeMetatarsus_bone/bluemorpho_l_ForeClaw_bone/bluemorpho_l_ForeClaw-nub_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeCoxa_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_bone/bluemorpho_l_ForeWing02_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_bone/bluemorpho_l_ForeWing02_bone/bluemorpho_l_ForeWing03_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_bone/bluemorpho_l_ForeWing02_bone/bluemorpho_l_ForeWing03_bone/bluemorpho_l_ForeWing04_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_bone/bluemorpho_l_ForeWing02_bone/bluemorpho_l_ForeWing03_bone/bluemorpho_l_ForeWing04_bone/bluemorpho_l_ForeWing05_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_bone/bluemorpho_l_ForeWing02_bone/bluemorpho_l_ForeWing03_bone/bluemorpho_l_ForeWing04_bone/bluemorpho_l_ForeWing05_bone/bluemorpho_l_ForeWing06_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_bone/bluemorpho_l_HindWing01_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_bone/bluemorpho_l_HindWing01_bone/bluemorpho_l_HindWing02_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_bone/bluemorpho_l_HindWing01_bone/bluemorpho_l_HindWing02_bone/bluemorpho_l_HindWing03_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_bone/bluemorpho_l_HindWing01_bone/bluemorpho_l_HindWing02_bone/bluemorpho_l_HindWing03_bone/bluemorpho_l_HindWing04_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_bone/bluemorpho_l_HindWing01_bone/bluemorpho_l_HindWing02_bone/bluemorpho_l_HindWing03_bone/bluemorpho_l_HindWing04_bone/bluemorpho_l_HindWing05_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_bone/bluemorpho_l_HindWing01_bone/bluemorpho_l_HindWing02_bone/bluemorpho_l_HindWing03_bone/bluemorpho_l_HindWing04_bone/bluemorpho_l_HindWing05_bone/bluemorpho_l_HindWing06_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_ctrl/bluemorpho_l_ForeWing02_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_ctrl/bluemorpho_l_ForeWing02_ctrl/bluemorpho_l_ForeWing03_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_ctrl/bluemorpho_l_ForeWing02_ctrl/bluemorpho_l_ForeWing03_ctrl/bluemorpho_l_ForeWing04_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_ctrl/bluemorpho_l_ForeWing02_ctrl/bluemorpho_l_ForeWing03_ctrl/bluemorpho_l_ForeWing04_ctrl/bluemorpho_l_ForeWing05_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_ctrl/Circle006
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_ctrl/Circle006/Circle007
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_ctrl/Circle006/Circle007/Circle008
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_l_ForeWing01_ctrl/Circle006/Circle007/Circle008/Circle009
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Head-nub_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_bone/bluemorpho_l_Antenna02_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_bone/bluemorpho_l_Antenna02_bone/bluemorpho_l_Antenna03_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_bone/bluemorpho_l_Antenna02_bone/bluemorpho_l_Antenna03_bone/bluemorpho_l_Antenna04_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_bone/bluemorpho_l_Antenna02_bone/bluemorpho_l_Antenna03_bone/bluemorpho_l_Antenna04_bone/bluemorpho_l_Antenna05_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_bone/bluemorpho_l_Antenna02_bone/bluemorpho_l_Antenna03_bone/bluemorpho_l_Antenna04_bone/bluemorpho_l_Antenna05_bone/bluemorpho_l_Antenna06_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_bone/bluemorpho_l_Antenna02_bone/bluemorpho_l_Antenna03_bone/bluemorpho_l_Antenna04_bone/bluemorpho_l_Antenna05_bone/bluemorpho_l_Antenna06_bone/bluemorpho_l_Antenna07_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_bone/bluemorpho_l_Antenna02_bone/bluemorpho_l_Antenna03_bone/bluemorpho_l_Antenna04_bone/bluemorpho_l_Antenna05_bone/bluemorpho_l_Antenna06_bone/bluemorpho_l_Antenna07_bone/bluemorpho_l_Antenna08_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_bone/bluemorpho_l_Antenna02_bone/bluemorpho_l_Antenna03_bone/bluemorpho_l_Antenna04_bone/bluemorpho_l_Antenna05_bone/bluemorpho_l_Antenna06_bone/bluemorpho_l_Antenna07_bone/bluemorpho_l_Antenna08_bone/bluemorpho_l_Antenna09_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_bone/bluemorpho_l_Antenna02_bone/bluemorpho_l_Antenna03_bone/bluemorpho_l_Antenna04_bone/bluemorpho_l_Antenna05_bone/bluemorpho_l_Antenna06_bone/bluemorpho_l_Antenna07_bone/bluemorpho_l_Antenna08_bone/bluemorpho_l_Antenna09_bone/bluemorpho_l_Antenna10_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_bone/bluemorpho_l_Antenna02_bone/bluemorpho_l_Antenna03_bone/bluemorpho_l_Antenna04_bone/bluemorpho_l_Antenna05_bone/bluemorpho_l_Antenna06_bone/bluemorpho_l_Antenna07_bone/bluemorpho_l_Antenna08_bone/bluemorpho_l_Antenna09_bone/bluemorpho_l_Antenna10_bone/bluemorpho_l_Antenna11_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_bone/bluemorpho_l_Antenna02_bone/bluemorpho_l_Antenna03_bone/bluemorpho_l_Antenna04_bone/bluemorpho_l_Antenna05_bone/bluemorpho_l_Antenna06_bone/bluemorpho_l_Antenna07_bone/bluemorpho_l_Antenna08_bone/bluemorpho_l_Antenna09_bone/bluemorpho_l_Antenna10_bone/bluemorpho_l_Antenna11_bone/bluemorpho_l_Antenna12_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_bone/bluemorpho_l_Antenna02_bone/bluemorpho_l_Antenna03_bone/bluemorpho_l_Antenna04_bone/bluemorpho_l_Antenna05_bone/bluemorpho_l_Antenna06_bone/bluemorpho_l_Antenna07_bone/bluemorpho_l_Antenna08_bone/bluemorpho_l_Antenna09_bone/bluemorpho_l_Antenna10_bone/bluemorpho_l_Antenna11_bone/bluemorpho_l_Antenna12_bone/bluemorpho_l_Antenna12-nub_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_ctrl/bluemorpho_l_Antenna02_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_ctrl/bluemorpho_l_Antenna02_ctrl/bluemorpho_l_Antenna03_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_ctrl/bluemorpho_l_Antenna02_ctrl/bluemorpho_l_Antenna03_ctrl/bluemorpho_l_Antenna04_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_ctrl/bluemorpho_l_Antenna02_ctrl/bluemorpho_l_Antenna03_ctrl/bluemorpho_l_Antenna04_ctrl/bluemorpho_l_Antenna05_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_ctrl/bluemorpho_l_Antenna02_ctrl/bluemorpho_l_Antenna03_ctrl/bluemorpho_l_Antenna04_ctrl/bluemorpho_l_Antenna05_ctrl/bluemorpho_l_Antenna06_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_ctrl/bluemorpho_l_Antenna02_ctrl/bluemorpho_l_Antenna03_ctrl/bluemorpho_l_Antenna04_ctrl/bluemorpho_l_Antenna05_ctrl/bluemorpho_l_Antenna06_ctrl/bluemorpho_l_Antenna07_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_ctrl/bluemorpho_l_Antenna02_ctrl/bluemorpho_l_Antenna03_ctrl/bluemorpho_l_Antenna04_ctrl/bluemorpho_l_Antenna05_ctrl/bluemorpho_l_Antenna06_ctrl/bluemorpho_l_Antenna07_ctrl/bluemorpho_l_Antenna08_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_ctrl/bluemorpho_l_Antenna02_ctrl/bluemorpho_l_Antenna03_ctrl/bluemorpho_l_Antenna04_ctrl/bluemorpho_l_Antenna05_ctrl/bluemorpho_l_Antenna06_ctrl/bluemorpho_l_Antenna07_ctrl/bluemorpho_l_Antenna08_ctrl/bluemorpho_l_Antenna09_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_ctrl/bluemorpho_l_Antenna02_ctrl/bluemorpho_l_Antenna03_ctrl/bluemorpho_l_Antenna04_ctrl/bluemorpho_l_Antenna05_ctrl/bluemorpho_l_Antenna06_ctrl/bluemorpho_l_Antenna07_ctrl/bluemorpho_l_Antenna08_ctrl/bluemorpho_l_Antenna09_ctrl/bluemorpho_l_Antenna10_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_ctrl/bluemorpho_l_Antenna02_ctrl/bluemorpho_l_Antenna03_ctrl/bluemorpho_l_Antenna04_ctrl/bluemorpho_l_Antenna05_ctrl/bluemorpho_l_Antenna06_ctrl/bluemorpho_l_Antenna07_ctrl/bluemorpho_l_Antenna08_ctrl/bluemorpho_l_Antenna09_ctrl/bluemorpho_l_Antenna10_ctrl/bluemorpho_l_Antenna11_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_l_Antenna01_ctrl/bluemorpho_l_Antenna02_ctrl/bluemorpho_l_Antenna03_ctrl/bluemorpho_l_Antenna04_ctrl/bluemorpho_l_Antenna05_ctrl/bluemorpho_l_Antenna06_ctrl/bluemorpho_l_Antenna07_ctrl/bluemorpho_l_Antenna08_ctrl/bluemorpho_l_Antenna09_ctrl/bluemorpho_l_Antenna10_ctrl/bluemorpho_l_Antenna11_ctrl/bluemorpho_l_Antenna12_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_bone/bluemorpho_r_Antenna02_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_bone/bluemorpho_r_Antenna02_bone/bluemorpho_r_Antenna03_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_bone/bluemorpho_r_Antenna02_bone/bluemorpho_r_Antenna03_bone/bluemorpho_r_Antenna04_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_bone/bluemorpho_r_Antenna02_bone/bluemorpho_r_Antenna03_bone/bluemorpho_r_Antenna04_bone/bluemorpho_r_Antenna05_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_bone/bluemorpho_r_Antenna02_bone/bluemorpho_r_Antenna03_bone/bluemorpho_r_Antenna04_bone/bluemorpho_r_Antenna05_bone/bluemorpho_r_Antenna06_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_bone/bluemorpho_r_Antenna02_bone/bluemorpho_r_Antenna03_bone/bluemorpho_r_Antenna04_bone/bluemorpho_r_Antenna05_bone/bluemorpho_r_Antenna06_bone/bluemorpho_r_Antenna07_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_bone/bluemorpho_r_Antenna02_bone/bluemorpho_r_Antenna03_bone/bluemorpho_r_Antenna04_bone/bluemorpho_r_Antenna05_bone/bluemorpho_r_Antenna06_bone/bluemorpho_r_Antenna07_bone/bluemorpho_r_Antenna08_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_bone/bluemorpho_r_Antenna02_bone/bluemorpho_r_Antenna03_bone/bluemorpho_r_Antenna04_bone/bluemorpho_r_Antenna05_bone/bluemorpho_r_Antenna06_bone/bluemorpho_r_Antenna07_bone/bluemorpho_r_Antenna08_bone/bluemorpho_r_Antenna09_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_bone/bluemorpho_r_Antenna02_bone/bluemorpho_r_Antenna03_bone/bluemorpho_r_Antenna04_bone/bluemorpho_r_Antenna05_bone/bluemorpho_r_Antenna06_bone/bluemorpho_r_Antenna07_bone/bluemorpho_r_Antenna08_bone/bluemorpho_r_Antenna09_bone/bluemorpho_r_Antenna10_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_bone/bluemorpho_r_Antenna02_bone/bluemorpho_r_Antenna03_bone/bluemorpho_r_Antenna04_bone/bluemorpho_r_Antenna05_bone/bluemorpho_r_Antenna06_bone/bluemorpho_r_Antenna07_bone/bluemorpho_r_Antenna08_bone/bluemorpho_r_Antenna09_bone/bluemorpho_r_Antenna10_bone/bluemorpho_r_Antenna11_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_bone/bluemorpho_r_Antenna02_bone/bluemorpho_r_Antenna03_bone/bluemorpho_r_Antenna04_bone/bluemorpho_r_Antenna05_bone/bluemorpho_r_Antenna06_bone/bluemorpho_r_Antenna07_bone/bluemorpho_r_Antenna08_bone/bluemorpho_r_Antenna09_bone/bluemorpho_r_Antenna10_bone/bluemorpho_r_Antenna11_bone/bluemorpho_r_Antenna12_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_bone/bluemorpho_r_Antenna02_bone/bluemorpho_r_Antenna03_bone/bluemorpho_r_Antenna04_bone/bluemorpho_r_Antenna05_bone/bluemorpho_r_Antenna06_bone/bluemorpho_r_Antenna07_bone/bluemorpho_r_Antenna08_bone/bluemorpho_r_Antenna09_bone/bluemorpho_r_Antenna10_bone/bluemorpho_r_Antenna11_bone/bluemorpho_r_Antenna12_bone/bluemorpho_r_Antenna12-nub_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_ctrl/bluemorpho_r_Antenna02_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_ctrl/bluemorpho_r_Antenna02_ctrl/bluemorpho_r_Antenna03_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_ctrl/bluemorpho_r_Antenna02_ctrl/bluemorpho_r_Antenna03_ctrl/bluemorpho_r_Antenna04_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_ctrl/bluemorpho_r_Antenna02_ctrl/bluemorpho_r_Antenna03_ctrl/bluemorpho_r_Antenna04_ctrl/bluemorpho_r_Antenna05_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_ctrl/bluemorpho_r_Antenna02_ctrl/bluemorpho_r_Antenna03_ctrl/bluemorpho_r_Antenna04_ctrl/bluemorpho_r_Antenna05_ctrl/bluemorpho_r_Antenna06_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_ctrl/bluemorpho_r_Antenna02_ctrl/bluemorpho_r_Antenna03_ctrl/bluemorpho_r_Antenna04_ctrl/bluemorpho_r_Antenna05_ctrl/bluemorpho_r_Antenna06_ctrl/bluemorpho_r_Antenna07_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_ctrl/bluemorpho_r_Antenna02_ctrl/bluemorpho_r_Antenna03_ctrl/bluemorpho_r_Antenna04_ctrl/bluemorpho_r_Antenna05_ctrl/bluemorpho_r_Antenna06_ctrl/bluemorpho_r_Antenna07_ctrl/bluemorpho_r_Antenna08_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_ctrl/bluemorpho_r_Antenna02_ctrl/bluemorpho_r_Antenna03_ctrl/bluemorpho_r_Antenna04_ctrl/bluemorpho_r_Antenna05_ctrl/bluemorpho_r_Antenna06_ctrl/bluemorpho_r_Antenna07_ctrl/bluemorpho_r_Antenna08_ctrl/bluemorpho_r_Antenna09_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_ctrl/bluemorpho_r_Antenna02_ctrl/bluemorpho_r_Antenna03_ctrl/bluemorpho_r_Antenna04_ctrl/bluemorpho_r_Antenna05_ctrl/bluemorpho_r_Antenna06_ctrl/bluemorpho_r_Antenna07_ctrl/bluemorpho_r_Antenna08_ctrl/bluemorpho_r_Antenna09_ctrl/bluemorpho_r_Antenna10_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_ctrl/bluemorpho_r_Antenna02_ctrl/bluemorpho_r_Antenna03_ctrl/bluemorpho_r_Antenna04_ctrl/bluemorpho_r_Antenna05_ctrl/bluemorpho_r_Antenna06_ctrl/bluemorpho_r_Antenna07_ctrl/bluemorpho_r_Antenna08_ctrl/bluemorpho_r_Antenna09_ctrl/bluemorpho_r_Antenna10_ctrl/bluemorpho_r_Antenna11_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_r_Antenna01_ctrl/bluemorpho_r_Antenna02_ctrl/bluemorpho_r_Antenna03_ctrl/bluemorpho_r_Antenna04_ctrl/bluemorpho_r_Antenna05_ctrl/bluemorpho_r_Antenna06_ctrl/bluemorpho_r_Antenna07_ctrl/bluemorpho_r_Antenna08_ctrl/bluemorpho_r_Antenna09_ctrl/bluemorpho_r_Antenna10_ctrl/bluemorpho_r_Antenna11_ctrl/bluemorpho_r_Antenna12_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone/bluemorpho_Tongue08_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone/bluemorpho_Tongue08_bone/bluemorpho_Tongue09_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone/bluemorpho_Tongue08_bone/bluemorpho_Tongue09_bone/bluemorpho_Tongue10_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone/bluemorpho_Tongue08_bone/bluemorpho_Tongue09_bone/bluemorpho_Tongue10_bone/bluemorpho_Tongue11_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone/bluemorpho_Tongue08_bone/bluemorpho_Tongue09_bone/bluemorpho_Tongue10_bone/bluemorpho_Tongue11_bone/bluemorpho_Tongue12_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone/bluemorpho_Tongue08_bone/bluemorpho_Tongue09_bone/bluemorpho_Tongue10_bone/bluemorpho_Tongue11_bone/bluemorpho_Tongue12_bone/bluemorpho_Tongue13_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone/bluemorpho_Tongue08_bone/bluemorpho_Tongue09_bone/bluemorpho_Tongue10_bone/bluemorpho_Tongue11_bone/bluemorpho_Tongue12_bone/bluemorpho_Tongue13_bone/bluemorpho_Tongue14_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone/bluemorpho_Tongue08_bone/bluemorpho_Tongue09_bone/bluemorpho_Tongue10_bone/bluemorpho_Tongue11_bone/bluemorpho_Tongue12_bone/bluemorpho_Tongue13_bone/bluemorpho_Tongue14_bone/bluemorpho_Tongue15_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone/bluemorpho_Tongue08_bone/bluemorpho_Tongue09_bone/bluemorpho_Tongue10_bone/bluemorpho_Tongue11_bone/bluemorpho_Tongue12_bone/bluemorpho_Tongue13_bone/bluemorpho_Tongue14_bone/bluemorpho_Tongue15_bone/bluemorpho_Tongue16_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone/bluemorpho_Tongue08_bone/bluemorpho_Tongue09_bone/bluemorpho_Tongue10_bone/bluemorpho_Tongue11_bone/bluemorpho_Tongue12_bone/bluemorpho_Tongue13_bone/bluemorpho_Tongue14_bone/bluemorpho_Tongue15_bone/bluemorpho_Tongue16_bone/bluemorpho_Tongue17_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone/bluemorpho_Tongue08_bone/bluemorpho_Tongue09_bone/bluemorpho_Tongue10_bone/bluemorpho_Tongue11_bone/bluemorpho_Tongue12_bone/bluemorpho_Tongue13_bone/bluemorpho_Tongue14_bone/bluemorpho_Tongue15_bone/bluemorpho_Tongue16_bone/bluemorpho_Tongue17_bone/bluemorpho_Tongue18_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone/bluemorpho_Tongue08_bone/bluemorpho_Tongue09_bone/bluemorpho_Tongue10_bone/bluemorpho_Tongue11_bone/bluemorpho_Tongue12_bone/bluemorpho_Tongue13_bone/bluemorpho_Tongue14_bone/bluemorpho_Tongue15_bone/bluemorpho_Tongue16_bone/bluemorpho_Tongue17_bone/bluemorpho_Tongue18_bone/bluemorpho_Tongue19_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone/bluemorpho_Tongue08_bone/bluemorpho_Tongue09_bone/bluemorpho_Tongue10_bone/bluemorpho_Tongue11_bone/bluemorpho_Tongue12_bone/bluemorpho_Tongue13_bone/bluemorpho_Tongue14_bone/bluemorpho_Tongue15_bone/bluemorpho_Tongue16_bone/bluemorpho_Tongue17_bone/bluemorpho_Tongue18_bone/bluemorpho_Tongue19_bone/bluemorpho_Tongue20_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone/bluemorpho_Tongue08_bone/bluemorpho_Tongue09_bone/bluemorpho_Tongue10_bone/bluemorpho_Tongue11_bone/bluemorpho_Tongue12_bone/bluemorpho_Tongue13_bone/bluemorpho_Tongue14_bone/bluemorpho_Tongue15_bone/bluemorpho_Tongue16_bone/bluemorpho_Tongue17_bone/bluemorpho_Tongue18_bone/bluemorpho_Tongue19_bone/bluemorpho_Tongue20_bone/bluemorpho_Tongue21_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone/bluemorpho_Tongue08_bone/bluemorpho_Tongue09_bone/bluemorpho_Tongue10_bone/bluemorpho_Tongue11_bone/bluemorpho_Tongue12_bone/bluemorpho_Tongue13_bone/bluemorpho_Tongue14_bone/bluemorpho_Tongue15_bone/bluemorpho_Tongue16_bone/bluemorpho_Tongue17_bone/bluemorpho_Tongue18_bone/bluemorpho_Tongue19_bone/bluemorpho_Tongue20_bone/bluemorpho_Tongue21_bone/bluemorpho_Tongue22_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone/bluemorpho_Tongue08_bone/bluemorpho_Tongue09_bone/bluemorpho_Tongue10_bone/bluemorpho_Tongue11_bone/bluemorpho_Tongue12_bone/bluemorpho_Tongue13_bone/bluemorpho_Tongue14_bone/bluemorpho_Tongue15_bone/bluemorpho_Tongue16_bone/bluemorpho_Tongue17_bone/bluemorpho_Tongue18_bone/bluemorpho_Tongue19_bone/bluemorpho_Tongue20_bone/bluemorpho_Tongue21_bone/bluemorpho_Tongue22_bone/bluemorpho_Tongue23_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone/bluemorpho_Tongue08_bone/bluemorpho_Tongue09_bone/bluemorpho_Tongue10_bone/bluemorpho_Tongue11_bone/bluemorpho_Tongue12_bone/bluemorpho_Tongue13_bone/bluemorpho_Tongue14_bone/bluemorpho_Tongue15_bone/bluemorpho_Tongue16_bone/bluemorpho_Tongue17_bone/bluemorpho_Tongue18_bone/bluemorpho_Tongue19_bone/bluemorpho_Tongue20_bone/bluemorpho_Tongue21_bone/bluemorpho_Tongue22_bone/bluemorpho_Tongue23_bone/bluemorpho_Tongue24_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_bone/bluemorpho_Tongue02_bone/bluemorpho_Tongue03_bone/bluemorpho_Tongue04_bone/bluemorpho_Tongue05_bone/bluemorpho_Tongue06_bone/bluemorpho_Tongue07_bone/bluemorpho_Tongue08_bone/bluemorpho_Tongue09_bone/bluemorpho_Tongue10_bone/bluemorpho_Tongue11_bone/bluemorpho_Tongue12_bone/bluemorpho_Tongue13_bone/bluemorpho_Tongue14_bone/bluemorpho_Tongue15_bone/bluemorpho_Tongue16_bone/bluemorpho_Tongue17_bone/bluemorpho_Tongue18_bone/bluemorpho_Tongue19_bone/bluemorpho_Tongue20_bone/bluemorpho_Tongue21_bone/bluemorpho_Tongue22_bone/bluemorpho_Tongue23_bone/bluemorpho_Tongue24_bone/bluemorpho_Tongue25_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl/bluemorpho_Tongue07_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl/bluemorpho_Tongue07_ctrl/bluemorpho_Tongue08_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl/bluemorpho_Tongue07_ctrl/bluemorpho_Tongue08_ctrl/bluemorpho_Tongue09_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl/bluemorpho_Tongue07_ctrl/bluemorpho_Tongue08_ctrl/bluemorpho_Tongue09_ctrl/bluemorpho_Tongue10_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl/bluemorpho_Tongue07_ctrl/bluemorpho_Tongue08_ctrl/bluemorpho_Tongue09_ctrl/bluemorpho_Tongue10_ctrl/bluemorpho_Tongue11_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl/bluemorpho_Tongue07_ctrl/bluemorpho_Tongue08_ctrl/bluemorpho_Tongue09_ctrl/bluemorpho_Tongue10_ctrl/bluemorpho_Tongue11_ctrl/bluemorpho_Tongue12_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl/bluemorpho_Tongue07_ctrl/bluemorpho_Tongue08_ctrl/bluemorpho_Tongue09_ctrl/bluemorpho_Tongue10_ctrl/bluemorpho_Tongue11_ctrl/bluemorpho_Tongue12_ctrl/bluemorpho_Tongue13_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl/bluemorpho_Tongue07_ctrl/bluemorpho_Tongue08_ctrl/bluemorpho_Tongue09_ctrl/bluemorpho_Tongue10_ctrl/bluemorpho_Tongue11_ctrl/bluemorpho_Tongue12_ctrl/bluemorpho_Tongue13_ctrl/bluemorpho_Tongue14_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl/bluemorpho_Tongue07_ctrl/bluemorpho_Tongue08_ctrl/bluemorpho_Tongue09_ctrl/bluemorpho_Tongue10_ctrl/bluemorpho_Tongue11_ctrl/bluemorpho_Tongue12_ctrl/bluemorpho_Tongue13_ctrl/bluemorpho_Tongue14_ctrl/bluemorpho_Tongue15_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl/bluemorpho_Tongue07_ctrl/bluemorpho_Tongue08_ctrl/bluemorpho_Tongue09_ctrl/bluemorpho_Tongue10_ctrl/bluemorpho_Tongue11_ctrl/bluemorpho_Tongue12_ctrl/bluemorpho_Tongue13_ctrl/bluemorpho_Tongue14_ctrl/bluemorpho_Tongue15_ctrl/bluemorpho_Tongue16_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl/bluemorpho_Tongue07_ctrl/bluemorpho_Tongue08_ctrl/bluemorpho_Tongue09_ctrl/bluemorpho_Tongue10_ctrl/bluemorpho_Tongue11_ctrl/bluemorpho_Tongue12_ctrl/bluemorpho_Tongue13_ctrl/bluemorpho_Tongue14_ctrl/bluemorpho_Tongue15_ctrl/bluemorpho_Tongue16_ctrl/bluemorpho_Tongue17_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl/bluemorpho_Tongue07_ctrl/bluemorpho_Tongue08_ctrl/bluemorpho_Tongue09_ctrl/bluemorpho_Tongue10_ctrl/bluemorpho_Tongue11_ctrl/bluemorpho_Tongue12_ctrl/bluemorpho_Tongue13_ctrl/bluemorpho_Tongue14_ctrl/bluemorpho_Tongue15_ctrl/bluemorpho_Tongue16_ctrl/bluemorpho_Tongue17_ctrl/bluemorpho_Tongue18_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl/bluemorpho_Tongue07_ctrl/bluemorpho_Tongue08_ctrl/bluemorpho_Tongue09_ctrl/bluemorpho_Tongue10_ctrl/bluemorpho_Tongue11_ctrl/bluemorpho_Tongue12_ctrl/bluemorpho_Tongue13_ctrl/bluemorpho_Tongue14_ctrl/bluemorpho_Tongue15_ctrl/bluemorpho_Tongue16_ctrl/bluemorpho_Tongue17_ctrl/bluemorpho_Tongue18_ctrl/bluemorpho_Tongue19_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl/bluemorpho_Tongue07_ctrl/bluemorpho_Tongue08_ctrl/bluemorpho_Tongue09_ctrl/bluemorpho_Tongue10_ctrl/bluemorpho_Tongue11_ctrl/bluemorpho_Tongue12_ctrl/bluemorpho_Tongue13_ctrl/bluemorpho_Tongue14_ctrl/bluemorpho_Tongue15_ctrl/bluemorpho_Tongue16_ctrl/bluemorpho_Tongue17_ctrl/bluemorpho_Tongue18_ctrl/bluemorpho_Tongue19_ctrl/bluemorpho_Tongue20_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl/bluemorpho_Tongue07_ctrl/bluemorpho_Tongue08_ctrl/bluemorpho_Tongue09_ctrl/bluemorpho_Tongue10_ctrl/bluemorpho_Tongue11_ctrl/bluemorpho_Tongue12_ctrl/bluemorpho_Tongue13_ctrl/bluemorpho_Tongue14_ctrl/bluemorpho_Tongue15_ctrl/bluemorpho_Tongue16_ctrl/bluemorpho_Tongue17_ctrl/bluemorpho_Tongue18_ctrl/bluemorpho_Tongue19_ctrl/bluemorpho_Tongue20_ctrl/bluemorpho_Tongue21_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl/bluemorpho_Tongue07_ctrl/bluemorpho_Tongue08_ctrl/bluemorpho_Tongue09_ctrl/bluemorpho_Tongue10_ctrl/bluemorpho_Tongue11_ctrl/bluemorpho_Tongue12_ctrl/bluemorpho_Tongue13_ctrl/bluemorpho_Tongue14_ctrl/bluemorpho_Tongue15_ctrl/bluemorpho_Tongue16_ctrl/bluemorpho_Tongue17_ctrl/bluemorpho_Tongue18_ctrl/bluemorpho_Tongue19_ctrl/bluemorpho_Tongue20_ctrl/bluemorpho_Tongue21_ctrl/bluemorpho_Tongue22_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl/bluemorpho_Tongue07_ctrl/bluemorpho_Tongue08_ctrl/bluemorpho_Tongue09_ctrl/bluemorpho_Tongue10_ctrl/bluemorpho_Tongue11_ctrl/bluemorpho_Tongue12_ctrl/bluemorpho_Tongue13_ctrl/bluemorpho_Tongue14_ctrl/bluemorpho_Tongue15_ctrl/bluemorpho_Tongue16_ctrl/bluemorpho_Tongue17_ctrl/bluemorpho_Tongue18_ctrl/bluemorpho_Tongue19_ctrl/bluemorpho_Tongue20_ctrl/bluemorpho_Tongue21_ctrl/bluemorpho_Tongue22_ctrl/bluemorpho_Tongue23_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_Head_bone/bluemorpho_Tongue01_ctrl/bluemorpho_Tongue02_ctrl/bluemorpho_Tongue03_ctrl/bluemorpho_Tongue04_ctrl/bluemorpho_Tongue05_ctrl/bluemorpho_Tongue06_ctrl/bluemorpho_Tongue07_ctrl/bluemorpho_Tongue08_ctrl/bluemorpho_Tongue09_ctrl/bluemorpho_Tongue10_ctrl/bluemorpho_Tongue11_ctrl/bluemorpho_Tongue12_ctrl/bluemorpho_Tongue13_ctrl/bluemorpho_Tongue14_ctrl/bluemorpho_Tongue15_ctrl/bluemorpho_Tongue16_ctrl/bluemorpho_Tongue17_ctrl/bluemorpho_Tongue18_ctrl/bluemorpho_Tongue19_ctrl/bluemorpho_Tongue20_ctrl/bluemorpho_Tongue21_ctrl/bluemorpho_Tongue22_ctrl/bluemorpho_Tongue23_ctrl/bluemorpho_Tongue24_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_l_Coxa_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_l_Coxa_bone/bluemorpho_l_Femur_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_l_Coxa_bone/bluemorpho_l_Femur_bone/bluemorpho_l_Tibia_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_l_Coxa_bone/bluemorpho_l_Femur_bone/bluemorpho_l_Tibia_bone/bluemorpho_l_Tarsus_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_l_Coxa_bone/bluemorpho_l_Femur_bone/bluemorpho_l_Tibia_bone/bluemorpho_l_Tarsus_bone/bluemorpho_l_Claw_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_l_Coxa_bone/bluemorpho_l_Femur_bone/bluemorpho_l_Tibia_bone/bluemorpho_l_Tarsus_bone/bluemorpho_l_Claw_bone/bluemorpho_l_Claw-nub_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_l_Coxa_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_l_Coxa_ctrl/bluemorpho_l_Coxa_ctrl001
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_l_Coxa_ctrl/bluemorpho_l_Coxa_ctrl001/bluemorpho_l_Coxa_ctrl002
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_l_Coxa_ctrl/bluemorpho_l_Coxa_ctrl001/bluemorpho_l_Coxa_ctrl002/bluemorpho_l_Coxa_ctrl003
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_l_Coxa_ctrl/bluemorpho_l_Coxa_ctrl001/bluemorpho_l_Coxa_ctrl002/bluemorpho_l_Coxa_ctrl003/bluemorpho_l_Coxa_ctrl004
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_l_Coxa_ctrl005
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_l_Coxa_ctrl005/bluemorpho_l_Coxa_ctrl006
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_l_Coxa_ctrl005/bluemorpho_l_Coxa_ctrl006/bluemorpho_l_Coxa_ctrl008
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_l_Coxa_ctrl005/bluemorpho_l_Coxa_ctrl006/bluemorpho_l_Coxa_ctrl008/bluemorpho_l_Coxa_ctrl007
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_l_Coxa_ctrl005/bluemorpho_l_Coxa_ctrl006/bluemorpho_l_Coxa_ctrl008/bluemorpho_l_Coxa_ctrl007/bluemorpho_l_Coxa_ctrl009
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_r_Coxa_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_r_Coxa_bone/bluemorpho_r_Femur_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_r_Coxa_bone/bluemorpho_r_Femur_bone/bluemorpho_r_Tibia_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_r_Coxa_bone/bluemorpho_r_Femur_bone/bluemorpho_r_Tibia_bone/bluemorpho_r_Tarsus_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_r_Coxa_bone/bluemorpho_r_Femur_bone/bluemorpho_r_Tibia_bone/bluemorpho_r_Tarsus_bone/bluemorpho_r_Claw_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_Prothorax_bone/bluemorpho_r_Coxa_bone/bluemorpho_r_Femur_bone/bluemorpho_r_Tibia_bone/bluemorpho_r_Tarsus_bone/bluemorpho_r_Claw_bone/bluemorpho_r_Claw-nub_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeCoxa_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeCoxa_bone/bluemorpho_r_ForeFemur_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeCoxa_bone/bluemorpho_r_ForeFemur_bone/bluemorpho_r_ForeTibia_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeCoxa_bone/bluemorpho_r_ForeFemur_bone/bluemorpho_r_ForeTibia_bone/bluemorpho_r_ForeTarsus_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeCoxa_bone/bluemorpho_r_ForeFemur_bone/bluemorpho_r_ForeTibia_bone/bluemorpho_r_ForeTarsus_bone/bluemorpho_r_ForeMetatarsus_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeCoxa_bone/bluemorpho_r_ForeFemur_bone/bluemorpho_r_ForeTibia_bone/bluemorpho_r_ForeTarsus_bone/bluemorpho_r_ForeMetatarsus_bone/bluemorpho_r_ForeClaw_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeCoxa_bone/bluemorpho_r_ForeFemur_bone/bluemorpho_r_ForeTibia_bone/bluemorpho_r_ForeTarsus_bone/bluemorpho_r_ForeMetatarsus_bone/bluemorpho_r_ForeClaw_bone/bluemorpho_r_ForeClaw-nub_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeCoxa_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_bone/bluemorpho_r_ForeWing02_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_bone/bluemorpho_r_ForeWing02_bone/bluemorpho_r_ForeWing03_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_bone/bluemorpho_r_ForeWing02_bone/bluemorpho_r_ForeWing03_bone/bluemorpho_r_ForeWing04_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_bone/bluemorpho_r_ForeWing02_bone/bluemorpho_r_ForeWing03_bone/bluemorpho_r_ForeWing04_bone/bluemorpho_r_ForeWing05_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_bone/bluemorpho_r_ForeWing02_bone/bluemorpho_r_ForeWing03_bone/bluemorpho_r_ForeWing04_bone/bluemorpho_r_ForeWing05_bone/bluemorpho_r_ForeWing06_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_bone/bluemorpho_r_HindWing01_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_bone/bluemorpho_r_HindWing01_bone/bluemorpho_r_HindWing02_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_bone/bluemorpho_r_HindWing01_bone/bluemorpho_r_HindWing02_bone/bluemorpho_r_HindWing03_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_bone/bluemorpho_r_HindWing01_bone/bluemorpho_r_HindWing02_bone/bluemorpho_r_HindWing03_bone/bluemorpho_r_HindWing04_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_bone/bluemorpho_r_HindWing01_bone/bluemorpho_r_HindWing02_bone/bluemorpho_r_HindWing03_bone/bluemorpho_r_HindWing04_bone/bluemorpho_r_HindWing05_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_bone/bluemorpho_r_HindWing01_bone/bluemorpho_r_HindWing02_bone/bluemorpho_r_HindWing03_bone/bluemorpho_r_HindWing04_bone/bluemorpho_r_HindWing05_bone/bluemorpho_r_HindWing06_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_ctrl/bluemorpho_r_ForeWing02_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_ctrl/bluemorpho_r_ForeWing02_ctrl/bluemorpho_r_ForeWing03_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_ctrl/bluemorpho_r_ForeWing02_ctrl/bluemorpho_r_ForeWing03_ctrl/bluemorpho_r_ForeWing04_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_ctrl/bluemorpho_r_ForeWing02_ctrl/bluemorpho_r_ForeWing03_ctrl/bluemorpho_r_ForeWing04_ctrl/bluemorpho_r_ForeWing05_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_ctrl/bluemorpho_r_HindWing02_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_ctrl/bluemorpho_r_HindWing02_ctrl/bluemorpho_r_HindWing03_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_ctrl/bluemorpho_r_HindWing02_ctrl/bluemorpho_r_HindWing03_ctrl/bluemorpho_r_HindWing04_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_Metathorax_bone/bluemorpho_r_ForeWing01_ctrl/bluemorpho_r_HindWing02_ctrl/bluemorpho_r_HindWing03_ctrl/bluemorpho_r_HindWing04_ctrl/bluemorpho_r_HindWing05_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_r_HindCoxa_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_r_HindCoxa_bone
+          1
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_r_HindCoxa_bone
+          1/bluemorpho_r_HindFemur_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_r_HindCoxa_bone
+          1/bluemorpho_r_HindFemur_bone/bluemorpho_r_HindTibia_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_r_HindCoxa_bone
+          1/bluemorpho_r_HindFemur_bone/bluemorpho_r_HindTibia_bone/bluemorpho_r_HindTarsus_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_r_HindCoxa_bone
+          1/bluemorpho_r_HindFemur_bone/bluemorpho_r_HindTibia_bone/bluemorpho_r_HindTarsus_bone/bluemorpho_r_HindMetatarsus_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_r_HindCoxa_bone
+          1/bluemorpho_r_HindFemur_bone/bluemorpho_r_HindTibia_bone/bluemorpho_r_HindTarsus_bone/bluemorpho_r_HindMetatarsus_bone/bluemorpho_r_HindClaw_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/Bluemorpho_COM_ctrl/bluemorpho_Mesothorax_bone/bluemorpho_r_HindCoxa_bone
+          1/bluemorpho_r_HindFemur_bone/bluemorpho_r_HindTibia_bone/bluemorpho_r_HindTarsus_bone/bluemorpho_r_HindMetatarsus_bone/bluemorpho_r_HindClaw_bone/bluemorpho_r_HindClaw-nub_bone
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_ForeFoot_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_ForeFoot_ctrl/bluemorpho_l_ForeHeelLift_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_ForeFoot_ctrl/bluemorpho_l_ForeHeelLift_hlp/bluemorpho_l_ForeToe_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_ForeFoot_ctrl/bluemorpho_l_ForeHeelLift_hlp/bluemorpho_l_ForeToe_hlp/bluemorpho_l_ForeHeelPeel_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_ForeFoot_ctrl/bluemorpho_l_ForeHeelLift_hlp/bluemorpho_l_ForeToe_hlp/bluemorpho_l_ForeHeelPeel_hlp/bluemorpho_l_Foreball_IKGoal
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_ForeFoot_ctrl/bluemorpho_l_ForeHeelLift_hlp/bluemorpho_l_ForeToe_hlp/bluemorpho_l_ForeHeelPeel_hlp/bluemorpho_l_Foreheel_IKGoal
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_ForeFoot_ctrl/bluemorpho_l_ForeHeelLift_hlp/bluemorpho_l_ForeToe_hlp/bluemorpho_l_ForeToeTap_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_ForeFoot_ctrl/bluemorpho_l_ForeHeelLift_hlp/bluemorpho_l_ForeToe_hlp/bluemorpho_l_ForeToeTap_hlp/bluemorpho_l_ForeTarsus_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_ForeFoot_ctrl/bluemorpho_l_ForeHeelLift_hlp/bluemorpho_l_ForeToe_hlp/bluemorpho_l_ForeToeTap_hlp/bluemorpho_l_ForeTarsus_hlp/bluemorpho_l_Foretarsus_IKGoal
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_ForeFoot_ctrl/bluemorpho_l_ForeHeelLift_hlp/bluemorpho_l_ForeToe_hlp/bluemorpho_l_ForeToeTap_hlp/bluemorpho_l_ForeTarsus_hlp/bluemorpho_l_Foretoe_IKGoal
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_HindFoot_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_HindFoot_ctrl/bluemorpho_l_HindHeelLift_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_HindFoot_ctrl/bluemorpho_l_HindHeelLift_hlp/bluemorpho_l_HindToe_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_HindFoot_ctrl/bluemorpho_l_HindHeelLift_hlp/bluemorpho_l_HindToe_hlp/bluemorpho_l_HindHeelPeel_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_HindFoot_ctrl/bluemorpho_l_HindHeelLift_hlp/bluemorpho_l_HindToe_hlp/bluemorpho_l_HindHeelPeel_hlp/bluemorpho_l_Hindball_IKGoal
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_HindFoot_ctrl/bluemorpho_l_HindHeelLift_hlp/bluemorpho_l_HindToe_hlp/bluemorpho_l_HindHeelPeel_hlp/bluemorpho_l_Hindheel_IKGoal
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_HindFoot_ctrl/bluemorpho_l_HindHeelLift_hlp/bluemorpho_l_HindToe_hlp/bluemorpho_l_HindToeTap_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_HindFoot_ctrl/bluemorpho_l_HindHeelLift_hlp/bluemorpho_l_HindToe_hlp/bluemorpho_l_HindToeTap_hlp/bluemorpho_l_HindTarsus_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_HindFoot_ctrl/bluemorpho_l_HindHeelLift_hlp/bluemorpho_l_HindToe_hlp/bluemorpho_l_HindToeTap_hlp/bluemorpho_l_HindTarsus_hlp/bluemorpho_l_Hindtoe_IKGoal
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_l_HindFoot_ctrl/bluemorpho_l_HindHeelLift_hlp/bluemorpho_l_HindToe_hlp/bluemorpho_l_HindToeTap_hlp/bluemorpho_l_Hindtarsus_IKGoal
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_ForeFoot_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_ForeFoot_ctrl/bluemorpho_r_ForeHeelLift_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_ForeFoot_ctrl/bluemorpho_r_ForeHeelLift_hlp/bluemorpho_r_ForeToe_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_ForeFoot_ctrl/bluemorpho_r_ForeHeelLift_hlp/bluemorpho_r_ForeToe_hlp/bluemorpho_r_ForeHeelPeel_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_ForeFoot_ctrl/bluemorpho_r_ForeHeelLift_hlp/bluemorpho_r_ForeToe_hlp/bluemorpho_r_ForeHeelPeel_hlp/bluemorpho_r_Foreball_IKGoal
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_ForeFoot_ctrl/bluemorpho_r_ForeHeelLift_hlp/bluemorpho_r_ForeToe_hlp/bluemorpho_r_ForeHeelPeel_hlp/bluemorpho_r_Foreheel_IKGoal
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_ForeFoot_ctrl/bluemorpho_r_ForeHeelLift_hlp/bluemorpho_r_ForeToe_hlp/bluemorpho_r_ForeToeTap_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_ForeFoot_ctrl/bluemorpho_r_ForeHeelLift_hlp/bluemorpho_r_ForeToe_hlp/bluemorpho_r_ForeToeTap_hlp/bluemorpho_r_ForeTarsus_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_ForeFoot_ctrl/bluemorpho_r_ForeHeelLift_hlp/bluemorpho_r_ForeToe_hlp/bluemorpho_r_ForeToeTap_hlp/bluemorpho_r_ForeTarsus_hlp/bluemorpho_r_Foretarsus_IKGoal
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_ForeFoot_ctrl/bluemorpho_r_ForeHeelLift_hlp/bluemorpho_r_ForeToe_hlp/bluemorpho_r_ForeToeTap_hlp/bluemorpho_r_ForeTarsus_hlp/bluemorpho_r_Foretoe_IKGoal
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_HindFoot_ctrl
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_HindFoot_ctrl/bluemorpho_r_HindHeelLift_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_HindFoot_ctrl/bluemorpho_r_HindHeelLift_hlp/bluemorpho_r_HindToe_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_HindFoot_ctrl/bluemorpho_r_HindHeelLift_hlp/bluemorpho_r_HindToe_hlp/bluemorpho_r_HindHeelPeel_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_HindFoot_ctrl/bluemorpho_r_HindHeelLift_hlp/bluemorpho_r_HindToe_hlp/bluemorpho_r_HindHeelPeel_hlp/bluemorpho_r_Hindball_IKGoal
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_HindFoot_ctrl/bluemorpho_r_HindHeelLift_hlp/bluemorpho_r_HindToe_hlp/bluemorpho_r_HindHeelPeel_hlp/bluemorpho_r_Hindheel_IKGoal
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_HindFoot_ctrl/bluemorpho_r_HindHeelLift_hlp/bluemorpho_r_HindToe_hlp/bluemorpho_r_HindToeTap_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_HindFoot_ctrl/bluemorpho_r_HindHeelLift_hlp/bluemorpho_r_HindToe_hlp/bluemorpho_r_HindToeTap_hlp/bluemorpho_r_HindTarsus_hlp
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_HindFoot_ctrl/bluemorpho_r_HindHeelLift_hlp/bluemorpho_r_HindToe_hlp/bluemorpho_r_HindToeTap_hlp/bluemorpho_r_HindTarsus_hlp/bluemorpho_r_Hindtarsus_IKGoal
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_r_HindFoot_ctrl/bluemorpho_r_HindHeelLift_hlp/bluemorpho_r_HindToe_hlp/bluemorpho_r_HindToeTap_hlp/bluemorpho_r_HindTarsus_hlp/bluemorpho_r_Hindtoe_IKGoal
+        weight: 1
+      - path: bluemorpho_Main_ctrl/bluemorpho_target_hlp
+        weight: 1
+      - path: bluemorpho_Mesothorax_ctrl
+        weight: 1
+      - path: bluemorpho_Prothorax_ctrl
+        weight: 1
+      - path: bluemorpho_r_Wings_mesh
+        weight: 1
+      - path: bluemorpho_Tongue_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 474
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: bluemorpho_Main_ctrl
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
